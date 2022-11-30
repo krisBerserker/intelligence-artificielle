@@ -1,0 +1,16 @@
+os : Linux 20.04 LTS
+version de python : 3.8.10
+
+librairie necessaires 
+
+os : pip install os-sys
+threaded : pip install threaded
+numpy : pip install numpy
+time : pip install python-time
+cvzone : pip install cvzone
+mediapipe : pip install mediapipe
+cv2 : pip install opencv-python
+
+
+
+
